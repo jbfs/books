@@ -6,7 +6,7 @@
   + J.K Rowling, "Harry Potter et le prisonnier d'azkaban" (3)
   + J.K Rowling, "Harry Potter et la coupe de feu" (4)
   + J.K Rowling, "Harry Potter et l'ordre du phenix" (5)
-  + J.K Rowling, "Harry POtter et le prince de sang-mele" (6)
+  + J.K Rowling, "Harry Potter et le prince de sang-mele" (6)
   + J.K Rowling, "Harry Potter et les reliques de la mort" (7)
 
 ## 2019
