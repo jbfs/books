@@ -1,6 +1,8 @@
 # Books
 
 ## 2020
+  + J.K Rowling, "Harry Potter et l'enfant maudit" (8)
+  + Christelle Dabos, "La passe miroir" (1)
   + Cathy Cassidy, "Coeur cerise"
   + Ерих Кестнер, "Двойната Лотхен"
   + Памела Травърз, "Мери Попинз"
