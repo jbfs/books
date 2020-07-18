@@ -1,6 +1,7 @@
 # Books
 
 ## 2020
+  + Seraphine Menu, "Les déclisaisons de la Marguerite"
   + J.K Rowling, "Harry Potter et l'enfant maudit" (8)
   + Christelle Dabos, "La passe miroir" (1)
   + Cathy Cassidy, "Coeur cerise"
