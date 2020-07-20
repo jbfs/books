@@ -1,9 +1,15 @@
 # Books
 
 ## 2020
+  + Susie Morgenstern, "la famille trop d'famille"
+    + "Le bonheur selon Dana"
+    + "Gabriel"
+    + "Anna"
+    + "La varicelle x7"
+    + "Billy,le roi des chaussettes"
   + Yael Hassan, "Les Demoiselles des Hauts-Vents" 
   + Kirsty Applebaum, "Celle de milieu" 
-  + Seraphine Menu, "Les déclisaisons de la Marguerite"
+  + Seraphine Menu, "Les déclinaisons de la Marguerite"
   + J.K Rowling, "Harry Potter et l'enfant maudit" (8)
   + Christelle Dabos, "La passe miroir" (1)
   + Cathy Cassidy, "Coeur cerise"
