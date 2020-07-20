@@ -1,6 +1,7 @@
 # Books
 
 ## 2020
+  + Yael Hassan, "Les Demoiselles des Hauts-Vents" 
   + Kirsty Applebaum, "Celle de milieu" 
   + Seraphine Menu, "Les déclisaisons de la Marguerite"
   + J.K Rowling, "Harry Potter et l'enfant maudit" (8)
