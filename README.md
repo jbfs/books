@@ -1,7 +1,7 @@
 # Books
 
 ## 2020
-  
+  + Sjoerd Kuyper, "Hôtel Grand Amour"
   + Susie Morgenstern, "la famille trop d'famille"
     + "Bella, romancière"
     + "Cara et la fée des devoirs"
