@@ -1,6 +1,8 @@
 # Books
 
 ## 2020
+  + Rupert Kingfisher, "Madame Pamplemousse et ses Fabuleux Délices"
+  + Ally Condie, "L'été de Summerlost"
   + Sjoerd Kuyper, "Hôtel Grand Amour"
   + Susie Morgenstern, "la famille trop d'famille"
     + "Bella, romancière"
