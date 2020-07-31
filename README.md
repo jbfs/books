@@ -1,6 +1,7 @@
 # Books
 
 ## 2020
+  + Meg Cabot, "Le carnet d'Allie, La nouvelle école"
   + Rupert Kingfisher, "Madame Pamplemousse et ses Fabuleux Délices"
   + Ally Condie, "L'été de Summerlost"
   + Sjoerd Kuyper, "Hôtel Grand Amour"
@@ -17,7 +18,7 @@
   + Seraphine Menu, "Les déclinaisons de la Marguerite"
   + J.K Rowling, "Harry Potter et l'enfant maudit" (8)
   + Christelle Dabos, "La passe miroir" (1)
-  + Cathy Cassidy, "Coeur cerise"
+  + Cathy Cassidy, "Cœur cerise
   + Ерих Кестнер, "Двойната Лотхен"
   + Памела Травърз, "Мери Попинз"
   + Алън Милн, "Мечо Пух"
