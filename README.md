@@ -1,6 +1,8 @@
 # Books
 
 ## 2020
+  + Kathryn Littlewood, "La pâtisserie Bliss" (1)
+  + Kathryn Littlewood, "La pâtisserie Bliss" (2)
   + Meg Cabot, "Le carnet d'Allie, La nouvelle école"
   + Rupert Kingfisher, "Madame Pamplemousse et ses Fabuleux Délices"
   + Ally Condie, "L'été de Summerlost"
@@ -29,6 +31,11 @@
   + J.K Rowling, "Harry Potter et les reliques de la mort" (7)
 
 ## 2019
+  + Sophie Noel
+    + "Jeanne de Mortepaille" (1)
+    + "Jeanne de Mortepaille" (2)
+    + "Jeanne de Mortepaille" (3)
+    + "Jeanne de Mortepaille" (4)
   + Елин Пелин, "Ян бибиян"
   + Астрид Линдгрен, "Карлсон, който живее на покрива"
   + Астрид Линдгрен, "Пипи дългото чорапче"
