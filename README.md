@@ -18,7 +18,7 @@
   + Seraphine Menu, "Les déclinaisons de la Marguerite"
   + J.K Rowling, "Harry Potter et l'enfant maudit" (8)
   + Christelle Dabos, "La passe miroir" (1)
-  + Cathy Cassidy, "Cœur cerise
+  + Cathy Cassidy, "Cœur cerise"
   + Ерих Кестнер, "Двойната Лотхен"
   + Памела Травърз, "Мери Попинз"
   + Алън Милн, "Мечо Пух"
