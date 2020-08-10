@@ -1,6 +1,7 @@
 # Books
 
 ## 2020
+  + Jules Verne, "Le tour du monde en 80 jours"
   + Kathryn Littlewood, "La pâtisserie Bliss" (1)
   + Kathryn Littlewood, "La pâtisserie Bliss" (2)
   + Meg Cabot, "Le carnet d'Allie, La nouvelle école"
