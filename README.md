@@ -1,12 +1,12 @@
 # Books
 
 ## 2020
+  + Meg Cabot, "Le carnet d'Allie, Les vraies amies" (3)
   + Lewis Carroll, "Alice au Pays des merveilles"
   + Jules Verne, "Le tour du monde en 80 jours"
   + Kathryn Littlewood, "La pâtisserie Bliss" (1)
   + Kathryn Littlewood, "La pâtisserie Bliss" (2)
   + Meg Cabot, "Le carnet d'Allie, La nouvelle école" (2)
-  + Meg Cabot, "Le carnet d'Allie, Les vraies amies" (3)
   + Rupert Kingfisher, "Madame Pamplemousse et ses Fabuleux Délices"
   + Ally Condie, "L'été de Summerlost"
   + Sjoerd Kuyper, "Hôtel Grand Amour"
