@@ -1,6 +1,7 @@
 # Books
 
 ## 2020
+  + Gwenaele Barussaud, "Miss Dashwood" (1)
   + Meg Cabot, "Le carnet d'Allie, Les vraies amies" (3)
   + Lewis Carroll, "Alice au Pays des merveilles"
   + Jules Verne, "Le tour du monde en 80 jours"
