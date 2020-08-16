@@ -1,6 +1,7 @@
 # Books
 
 ## 2020
+  + Mary Pope Osborne, "La cabane magique" (25)
   + Gwenaële Barussaud, "Miss Dashwood" (2)
   + Gwenaële Barussaud, "Miss Dashwood" (1)
   + Meg Cabot, "Le carnet d'Allie, Les vraies amies" (3)
