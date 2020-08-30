@@ -22,7 +22,7 @@
     + "Anna"
     + "Elisa"
     + "La varicelle x7"
-    + "Billy,le roi des chaussettes"
+    + "Billy, le roi des chaussettes"
   + Yael Hassan, "Les Demoiselles des Hauts-Vents" 
   + Kirsty Applebaum, "Celle de milieu" 
   + Seraphine Menu, "Les déclinaisons de la Marguerite"
