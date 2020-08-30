@@ -1,6 +1,7 @@
 # Books
 
 ## 2020
+  + J.K Rowling, "Les contes de beedle le barde"
   + Mary Pope Osborne, "La cabane magique" (25)
   + Gwenaële Barussaud, "Miss Dashwood" (2)
   + Gwenaële Barussaud, "Miss Dashwood" (1)
