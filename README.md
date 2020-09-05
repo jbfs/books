@@ -1,6 +1,7 @@
 # Books
 
 ## 2020
+  + J.K Rowling, "Les animaux fantastiques vie & habitat"
   + J.K Rowling, "Le quidditch a travers les ages"
   + J.K Rowling, "Les contes de beedle le barde"
   + Mary Pope Osborne, "La cabane magique" (25)
