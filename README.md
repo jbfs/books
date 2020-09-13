@@ -19,6 +19,7 @@
   + Ally Condie, "L'été de Summerlost"
   + Sjoerd Kuyper, "Hôtel Grand Amour"
   + Susie Morgenstern, "la famille trop d'famille"
+    + "Un papa en vacances"
     + "Bella, romancière"
     + "Cara et la fée des devoirs"
     + "Le bonheur selon Dana"
