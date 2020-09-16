@@ -1,6 +1,7 @@
 # Books
 
 ## 2020
+  + Katheryn Littlewood, "La patisserie Bliss" (3)
   + Rupert Kingfisher, "Madame Pamplemousse et la Confiserie Enchantee"
   + Rupert Kingfisher, "Madame Pamplemousse et le Café à Remonter le Temps"
   + J.K Rowling, "Les animaux fantastiques vie & habitat"
