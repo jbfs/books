@@ -1,6 +1,7 @@
 # Books
 
 ## 2020
+  + Dominique Valente, "Starfell et Violette Dupin et le Jour Perdu"
   + Katheryn Littlewood, "La patisserie Bliss" (5)
   + Katheryn Littlewood, "La patisserie Bliss" (4)
   + Katheryn Littlewood, "La patisserie Bliss" (3)
