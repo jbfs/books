@@ -5,7 +5,7 @@
   + Katheryn Littlewood, "La patisserie Bliss" (5)
   + Katheryn Littlewood, "La patisserie Bliss" (4)
   + Katheryn Littlewood, "La patisserie Bliss" (3)
-  + Rupert Kingfisher, "Madame Pamplemousse et la Confiserie Enchantee"
+  + Rupert Kingfisher, "Madame Pamplemousse et la Confiserie Enchantée"
   + Rupert Kingfisher, "Madame Pamplemousse et le Café à Remonter le Temps"
   + J.K Rowling, "Les animaux fantastiques vie & habitat"
   + J.K Rowling, "Le quidditch a travers les ages"
@@ -23,6 +23,8 @@
   + Ally Condie, "L'été de Summerlost"
   + Sjoerd Kuyper, "Hôtel Grand Amour"
   + Susie Morgenstern, "la famille trop d'famille"
+    + "Flavia"
+    + "Cara n'aime pas l'école"
     + "Bella"
     + "Flavia, reine des billes"
     + "Cara"
@@ -51,6 +53,7 @@
   + J.K Rowling, "Harry Potter et les reliques de la mort" (7)
 
 ## 2019
+  + Erik L'Homme, "Le Livre des Etoiles" (1)
   + Sophie Noel
     + "Jeanne de Mortepaille" (1)
     + "Jeanne de Mortepaille" (2)
