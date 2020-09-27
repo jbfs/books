@@ -1,6 +1,7 @@
 # Books
 
 ## 2020
+  + Kathryn Lasky, "Le Royaume des Loups" (1)
   + Erik L'Homme, "Le livre des Etoiles" (2)
   + Dominique Valente, "Starfell et Violette Dupin et le Jour Perdu"
   + Katheryn Littlewood, "La patisserie Bliss" (5)
