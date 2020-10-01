@@ -1,6 +1,7 @@
 # Books
 
 ## 2020
+  + Irena Brignull, "Les sorcières du clan du Nord" (1)
   + Kathryn Lasky, "Le Royaume des Loups" (1)
   + Erik L'Homme, "Le livre des Etoiles" (2)
   + Dominique Valente, "Starfell et Violette Dupin et le Jour Perdu"
