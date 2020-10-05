@@ -1,6 +1,7 @@
 # Books
 
 ## 2020
+  + Roald Dahl, "Charlie et la chocolaterie"
   + Kathryn Lasky, "Le Royaume des Loups" (2)
   + Erik L'Homme, "Le livre des Etoiles" (3)
   + Irena Brignull, "Les sorcières du clan du Nord" (1)
