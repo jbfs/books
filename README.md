@@ -1,6 +1,7 @@
 # Books
 
 ## 2020
+  + Jean-Philippe Arrou-Vignod, "Enquête au collège l'élève qui n'existait pas"
   + Kathryn Lasky, "Le Royaume des Loups" (3)
   + Roald Dahl, "Sacrées Sorcières"
   + Roald Dahl, "Charlie et le grand ascenseur de verre"
