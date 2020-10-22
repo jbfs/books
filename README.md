@@ -1,6 +1,7 @@
 # Books
 
 ## 2020
+  + Anne Ferrier, "La meneuse de bêtes"
   + Kathryn Lasky, "Le Royaume des Loups" (4)
   + Robert Louis Stevenson, "L'ile au Trésor"
   + Mary Pope Osborne, "La cabane magique" (23)
