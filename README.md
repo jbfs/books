@@ -1,6 +1,7 @@
 # Books
 
 ## 2020
+  + Cathy Cassidy, "Cœur gimauve" 
   + Rick Riordan, "Les 39 clés" (1)
   + Anne Ferrier, "La meneuse de bêtes"
   + Kathryn Lasky, "Le Royaume des Loups" (4)
