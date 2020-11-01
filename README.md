@@ -1,6 +1,7 @@
 # Books
 
 ## 2020
+  + Mary Pope Osborne, "La cabane magique" (24)
   + Roald Dahl, "Matilda"
   + Trenton Lee Stewart, "Le mystérieux cercle Benedict" (1)
   + Kathryn Lasky, "Le Royaume des Loups" (5)
