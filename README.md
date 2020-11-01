@@ -1,6 +1,7 @@
 # Books
 
 ## 2020
+  + Roald Dahl, "Matilda"
   + Trenton Lee Stewart, "Le mystérieux cercle Benedict" (1)
   + Kathryn Lasky, "Le Royaume des Loups" (5)
   + Cathy Cassidy, "Cœur gimauve" 
