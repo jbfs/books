@@ -1,6 +1,7 @@
 # Books
 
 ## 2020
+  + Mary Pope Osborne, "La cabane magique" (40)
   + Trenton Lee Stewart, "Le mystérieux cercle Benedict" (2)
   + Jean-Claude Mourlevat, "La rivière à l'envers" (1)
   + Kathryn Lasky, "Le Royaume des Loups" (6)
