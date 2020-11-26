@@ -1,6 +1,10 @@
 # Books
 
 ## 2020
+  + Jean-Philippe Arrou-Vignod, "Enquête au collège, sur la piste de la salamandre"
+  + Patrick Sobral, "Les Legendaires" (2)
+  + Patrick Sobral, "Les Legendaires" (3)
+  + Cazenove&William, "Les Sisters" (13)
   + Mary Pope Osborne, "La cabane magique" (48) 
   + Trenton Lee Stewart, "Le mystérieux cercle Benedict" (3)
   + Mary Pope Osborne, "La cabane magique" (40)
