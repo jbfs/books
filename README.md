@@ -1,6 +1,7 @@
 # Books
 
 ## 2020
+  + Jean-Philippe Arrou-Vignod, "Enquête au collège, le professeur a disparu"
   + Jean-Philippe Arrou-Vignod, "Enquête au collège, sur la piste de la salamandre"
   + Patrick Sobral, "Les Legendaires" (2) (BD)
   + Patrick Sobral, "Les Legendaires" (3) (BD)
