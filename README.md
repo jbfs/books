@@ -1,6 +1,7 @@
 # Books
 
 ## 2020
+  + Mary Pope Osborne, "La cabane magique" (49)
   + Jean-Philippe Arrou-Vignod, "Enquête au collège, le professeur a disparu"
   + Jean-Philippe Arrou-Vignod, "Enquête au collège, sur la piste de la salamandre"
   + Patrick Sobral, "Les Legendaires" (2) (BD)
