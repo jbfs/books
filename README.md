@@ -1,6 +1,9 @@
 # Books
 
 ## 2020
+  + Dominique de Saint Mars, "Lili veut un petit chat"
+  + Roald Dahl, "Les deux gredins"
+  + Dominique de Saint Mars, "Lili va chez la psy"
   + Rick Riordan, "Les 39 clés" (3)
   + Mary Pope Osborne, "La cabane magique" (4)
   + Mary Pope Osborne, "La cabane magique" (2)
