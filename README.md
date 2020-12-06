@@ -1,6 +1,8 @@
 # Books
 
 ## 2020
+  + Jude Watson, "Les 39 clés" (4)
+  + Andreas Steinhöfel, "Rico & Oscar" (1)
   + Dominique de Saint Mars, "Lili veut un petit chat" (BD)
   + Roald Dahl, "Les deux gredins"
   + Dominique de Saint Mars, "Lili va chez la psy" (BD)
