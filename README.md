@@ -1,6 +1,7 @@
 # Books
 
 ## 2020
+  + Dominique de Saint Mars, "Lili a trop honte" (104)
   + Fabrice Colin, "Wonderpark" (1)
   + Gordon Korman, "Les 39 clés" (2)
   + Jude Watson, "Les 39 clés" (4)
