@@ -1,6 +1,8 @@
 # Books
 
 ## 2020
+  + Fabrice Colin, "Wonderpark" (1)
+  + Gordon Korman, "Les 39 clés" (2)
   + Jude Watson, "Les 39 clés" (4)
   + Andreas Steinhöfel, "Rico & Oscar" (1)
   + Dominique de Saint Mars, "Lili veut un petit chat" (BD)
@@ -15,7 +17,7 @@
   + Patrick Sobral, "Les Legendaires" (2) (BD)
   + Patrick Sobral, "Les Legendaires" (3) (BD)
   + Cazenove&William, "Les Sisters" (13) (BD)
-  + Mary Pope Osborne, "La cabane magique" (48) 
+  + Mary Pope Osborne, "La cabane magique" (48)
   + Trenton Lee Stewart, "Le mystérieux cercle Benedict" (3)
   + Mary Pope Osborne, "La cabane magique" (40)
   + Trenton Lee Stewart, "Le mystérieux cercle Benedict" (2)
@@ -25,7 +27,7 @@
   + Roald Dahl, "Matilda"
   + Trenton Lee Stewart, "Le mystérieux cercle Benedict" (1)
   + Kathryn Lasky, "Le Royaume des Loups" (5)
-  + Cathy Cassidy, "Cœur gimauve" 
+  + Cathy Cassidy, "Cœur gimauve"
   + Rick Riordan, "Les 39 clés" (1)
   + Anne Ferrier, "La meneuse de bêtes"
   + Kathryn Lasky, "Le Royaume des Loups" (4)
@@ -77,8 +79,8 @@
     + "Elisa"
     + "La varicelle x7"
     + "Billy, le roi des chaussettes"
-  + Yael Hassan, "Les Demoiselles des Hauts-Vents" 
-  + Kirsty Applebaum, "Celle de milieu" 
+  + Yael Hassan, "Les Demoiselles des Hauts-Vents"
+  + Kirsty Applebaum, "Celle de milieu"
   + Seraphine Menu, "Les déclinaisons de la Marguerite"
   + J.K Rowling, "Harry Potter et l'enfant maudit" (8)
   + Christelle Dabos, "La passe miroir" (1)
